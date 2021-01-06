@@ -2,7 +2,8 @@
 
 
 For Linux Compiler And Run.
-You should run this 
+You should run this
 
-Example：
-g++ -Wall -o server server.cpp
+For Linux:
+First Step: g++ -Wall -o server server.cpp
+Second Step: ./server
